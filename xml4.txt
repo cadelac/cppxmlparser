@@ -1,0 +1,19 @@
+<doc1>
+  <elemone>
+  </elemone>
+  <elemtwo>
+    <par1>
+    </par1>
+  </elemtwo>
+  <elemthree>
+    <par2>
+    </par2>
+    <par3>
+    </par3>
+    <par4>
+    </par4>
+  </elemthree>
+  <elem_four/>
+</doc1>
+<doc2>li</doc2>
+<doc3/>

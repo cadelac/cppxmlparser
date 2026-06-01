@@ -1,0 +1,7 @@
+<employee>
+  <name first='Sup' last='Erman'/>
+  <address number=1 street='Parkway Dr' city='New York'/>
+  <motto>just do it</motto>
+</employee>
+<log path='/appl.log'/>
+<institution>Treasury Department</institution>

@@ -1,0 +1,1 @@
+<doc1>This is my home [${HOME}] directory</doc1>

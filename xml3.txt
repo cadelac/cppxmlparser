@@ -1,0 +1,12 @@
+<documentary>
+<nil/>
+<personal>
+<address number=1 street='Highland Ln' city='Dallas'/>
+<name first='Sup' last='Erman'></name>
+</personal>
+<empty></empty>
+<quote symbol='ibm' bsize=10 asize=12 bid=123.45 ask=123.95/>
+<referendum date=${TARGETDATE} vote=${PARTY}/>
+<root url='/home/schlotky'/>
+<path url=${HOME}'/foo' abs=${SKU}'-gluemeto-'${PARTY}/>
+</documentary>
